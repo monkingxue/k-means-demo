@@ -1,0 +1,22 @@
+{
+  "name": "math-model",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "echarts": "^3.5.3",
+    "machine_learning": "^0.1.1",
+    "node-xlsx": "^0.7.4"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.4.0",
+    "friendly-errors-webpack-plugin": "^1.6.1",
+    "webpack": "^2.4.1"
+  }
+}
